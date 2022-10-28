@@ -95,10 +95,6 @@ function Cliente(){
                         </table> 
                         
                     </div>
-
-                    <button  class="mx-5  btn btn-success"    type="button">Finalizar compra</button>
-
-                    <button class=  "btn btn-danger" type="button">Cancelar</button>
                     </div>
                    
                 )
@@ -106,7 +102,12 @@ function Cliente(){
             }
             
             
-            )}   
+            )}
+            <div>
+            <button  class="mx-5  btn btn-success"    type="button">Finalizar compra</button>
+            <button class=  "btn btn-danger" type="button">Cancelar</button>
+            </div>
+            
       
         </div>
         
