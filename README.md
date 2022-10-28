@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # DesarrolloWeb
-Equipo de Trabajo para el Proyecto Final C4
+Equipo de Trabajo para el Proyecto Final C4 - Proyecto tienda.
 =======
 # Getting Started with Create React App
 
